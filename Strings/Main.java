@@ -84,10 +84,27 @@ public class Main{
 
 
             char[] newarr = {'a','b','c','d','e'};
+            String r;
+            r.valueOf(newarr);
+            System.out.println(r);
 
 
         mystring.getChars(1, 2, newarr,4);
-        System.out.println(Arrays.toString(newarr));   // 1 is the first index of the input and 2 is the last index of the input and 4 is the place where we want to place our string in the array
+        // System.out.println(Arrays.toString(newarr));   // 1 is the first index of the input and 2 is the last index of the input and 4 is the place where we want to place our string in the array
 
+
+
+        String c = "hello";
+        String d = "world";
+        String e = "ok";
+        String result = c.concat(" ").concat(d).concat(d);
+        System.out.println(result);
+        
+        
+        System.out.println(mystring.substring(2));   // start from this index and print till last
+
+
+
+        
     }
 }
