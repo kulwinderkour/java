@@ -4,7 +4,7 @@ public class Main{
     public static void main(String args[]){
 
             Scanner sc = new Scanner(System.in);
-            // String mystring = sc.nextLine();
+            String mystring = sc.nextLine();
             // int lenString = mystring.length();
             // System.out.println(lenString);  // returns the length of the string
             // System.out.println(mystring.charAt(0));   // returns that element on that index and return type is char
@@ -70,8 +70,19 @@ public class Main{
             
             
             
-            // System.out.println(a.toString());
+            
+            String arr[] = mystring.split(" " );
+            System.out.println(Arrays.toString(arr));
+            
+            
+            
+            
+            // startwith  and ends with this can take strigns also
+            System.out.println(mystring.startsWith("k"));
+            System.out.println(mystring.endsWith("kulwinder"));
 
+
+            
 
 
     }
