@@ -1,4 +1,5 @@
-import java.util.Scanner;
+import java.util.*;
+
 public class Main{
     public static void main(String args[]){
 
@@ -62,6 +63,16 @@ public class Main{
             System.out.println(a.toCharArray());   
 
 
+            // string to byte arrays
             
+            byte[] res= a.getBytes();
+            System.out.println(Arrays.toString(res));  // arrays to string can be unicode values
+            
+            
+            
+            // System.out.println(a.toString());
+
+
+
     }
 }
