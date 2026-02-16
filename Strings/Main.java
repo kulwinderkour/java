@@ -59,6 +59,9 @@ public class Main{
             
             
             // string to char array
-            System.out.println(a.toCharArray());
+            System.out.println(a.toCharArray());   
+
+
+            
     }
 }
