@@ -31,7 +31,7 @@ public class Main{
             // equal function compare two string only checks the equality fo only two string
             String a = "hello";
             String b ="ii";
-
+            String c = "hiii";
             // System.out.println(a.equals(b));
 
 
