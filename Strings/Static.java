@@ -13,7 +13,7 @@ public class Static {
         for(String i:words){
             System.out.println(i);
         }
-
+        System.out.println(decoded);
 
     }
 }
