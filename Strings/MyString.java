@@ -14,4 +14,5 @@ public class MyString {
 
 // string builder when we dont have that much threads
 // but string buffer is when we have lot of threads
+// string buffer is when we have lot of threads
 
