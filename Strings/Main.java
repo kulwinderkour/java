@@ -84,9 +84,9 @@ public class Main{
 
 
             char[] newarr = {'a','b','c','d','e'};
-            String r;
-            r.valueOf(newarr);
-            System.out.println(r);
+            // String r;
+            // r.valueOf(newarr);
+            // System.out.println(r);
 
 
         mystring.getChars(1, 2, newarr,4);
