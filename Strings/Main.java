@@ -50,8 +50,8 @@ public class Main{
             //check if string si empty or not
             // System.out.println(a.isEmpty());
             // compareto have return type of int and compare two strings
-            // System.out.println(a.compareTo(b));
-            
+            System.out.println(a.compareTo(b));
+            System.out.println(a);
             // System.out.println(a.compareToIgnoreCase(b));
             
             
