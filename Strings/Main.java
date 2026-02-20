@@ -31,9 +31,9 @@ public class Main{
             // equal function compare two string only checks the equality fo only two string
             String a = "hello";
             String b ="ii";
-            String c = "hiii";
-            String d = "new";
-            // System.out.println(a.equals(b));
+            // String c = "hiii";
+            // String d = "new";
+            System.out.println(a.equals(b));
 
 
             // equal ignore case lowarecase and uppercase are traeated as same
