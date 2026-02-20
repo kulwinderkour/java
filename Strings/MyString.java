@@ -2,8 +2,8 @@ import java.util.Scanner;
 import java.util.Arrays;
 public class MyString {
     public static void main(String args[]){
-        // char[]  arr = new String("My new str").toCharArray();
-        // String s = new String(arr);
+        char[]  arr = new String("My new str").toCharArray();
+        String s = new String(arr);
         System.out.println(s);
 
 
