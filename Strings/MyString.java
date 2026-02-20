@@ -8,8 +8,8 @@ public class MyString {
 
 
         int[] newarr = {97,99,-83,69};
-        String s = new String(arr,3,1);
-        System.out.print(s);
+        String s2 = new String(arr,3,1);
+        System.out.print(s2);
     }
 }
 
