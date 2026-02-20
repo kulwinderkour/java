@@ -9,7 +9,7 @@ public class MyString {
 
         int[] newarr = {97,99,-83,69};
         String s2 = new String(arr,3,1);
-        System.out.print(s2);
+        System.out.print(s);
     }
 }
 
