@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.Scanner;
+import java.util.Arrays;
 public class MyString {
     public static void main(String args[]){
         // char[]  arr = new String("My new str").toCharArray();
