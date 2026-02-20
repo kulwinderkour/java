@@ -32,6 +32,7 @@ public class Main{
             String a = "hello";
             String b ="ii";
             String c = "hiii";
+            String d = "new";
             // System.out.println(a.equals(b));
 
 
