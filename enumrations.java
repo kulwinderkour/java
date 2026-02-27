@@ -4,12 +4,16 @@ public class enumrations {
         // enum names{kulwinder, mehr,rahul,saima}
         // names n = names.saima;
         // System.out.println(n);
-        void sum(int a , double b, int... nums){
-            int s = Arrays.stream(nums).sum();
-            for(int v:nums){
-                s+=v;
-            }
-        }
+        
+        // void sum(int a , double b, int ... nums){
+        //     int s = Arrays.stream(nums).sum();
+        //     for(int v:nums){
+        //         s+=v;
+        //     }
+        // }
+
+
+        
     }
 }
 
