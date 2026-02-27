@@ -8,4 +8,10 @@
 
 // properties of intrefaces: 
 // no constructors and interface cannot have object variable
-//
+// interaface have total abstraction in java
+// multiple inheritances are not supported by java classes, interface come into play toc achieve te
+//loose coupling - 
+
+
+
+// multiple inheritance in java 
