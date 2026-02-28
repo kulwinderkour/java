@@ -15,3 +15,10 @@
 
 
 // multiple inheritance in java 
+
+
+// using abstract wht the inner class 
+abstract class Gamechecker{
+    abstract void attack(int n);
+    abstract void defend(int n);
+}
